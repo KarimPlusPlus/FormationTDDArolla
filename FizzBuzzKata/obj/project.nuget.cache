@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0exllHSXU9d7ifmqL8lZo9J3c/SHCKeaFqttsmQh7/n7k7OZudRpUgjyri9xNB/aWQOznlTr2NJDEU9HQwQTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boutouil\\source\\repos\\KarimPlusPlus\\FormationTDDArolla\\FizzBuzzKata\\FizzBuzzKata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boutouil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
