@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzKO1FgA3UT1Vb0w2RhZeXVy3cYG38wtjnASZXezeNsMIbhQctGOHTje7OMqTB2MGGqd8AR6/1xsxL/0+WAkww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boutouil\\source\\repos\\KarimPlusPlus\\FormationTDDArolla\\FractionsKata\\FractionsKata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boutouil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\bin\Debug\netcoreapp3.1\FractionsKata.exe
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\bin\Debug\netcoreapp3.1\FractionsKata.deps.json
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\bin\Debug\netcoreapp3.1\FractionsKata.runtimeconfig.json
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\bin\Debug\netcoreapp3.1\FractionsKata.runtimeconfig.dev.json
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\bin\Debug\netcoreapp3.1\FractionsKata.dll
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\bin\Debug\netcoreapp3.1\FractionsKata.pdb
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\obj\Debug\netcoreapp3.1\FractionsKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\obj\Debug\netcoreapp3.1\FractionsKata.AssemblyInfoInputs.cache
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\obj\Debug\netcoreapp3.1\FractionsKata.AssemblyInfo.cs
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\obj\Debug\netcoreapp3.1\FractionsKata.csproj.CoreCompileInputs.cache
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\obj\Debug\netcoreapp3.1\FractionsKata.dll
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\obj\Debug\netcoreapp3.1\FractionsKata.pdb
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FractionsKata\obj\Debug\netcoreapp3.1\FractionsKata.genruntimeconfig.cache

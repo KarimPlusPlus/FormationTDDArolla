@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rL8Yq7vXgec0ACX949nVVu+ziY11P+0Q3QbyVuDiyxylYHB52t0eoSX5PRKJNyFreWTqmw4iri2byQNuB3GSnw==",
+  "dgSpecHash": "aXPmyfEmvWM4SuCspR9OQhWkmQ6sriU7jgSL5vdozrp/ALTJHqvZbeXH+qQKlOtLpzKX/f/uLdNYeMwYpmK2ug==",
   "success": true,
   "projectFilePath": "C:\\Users\\Boutouil\\source\\repos\\KarimPlusPlus\\FormationTDDArolla\\FizzBuzzKataTests\\FizzBuzzKataTests.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\Boutouil\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\Boutouil\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
     "C:\\Users\\Boutouil\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Boutouil\\.nuget\\packages\\nfluent\\2.7.2\\nfluent.2.7.2.nupkg.sha512",
     "C:\\Users\\Boutouil\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\Boutouil\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\Boutouil\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",

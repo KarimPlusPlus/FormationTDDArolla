@@ -1,0 +1,14 @@
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.csproj.AssemblyReference.cache
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.AssemblyInfoInputs.cache
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.AssemblyInfo.cs
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.csproj.CoreCompileInputs.cache
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.exe
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.deps.json
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.runtimeconfig.json
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.runtimeconfig.dev.json
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.dll
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.pdb
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.dll
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.pdb
+C:\Users\Boutouil\source\repos\KarimPlusPlus\FormationTDDArolla\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.genruntimeconfig.cache

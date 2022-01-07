@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HmCpl9TWyFpdYZpQ3/Ym0AlZc+Kr3hohrM3oNgaN6cyF4UoyG18fKQQunTtBwyuH8zpAcrlsqr8IFQ2TiWCwnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boutouil\\source\\repos\\KarimPlusPlus\\FormationTDDArolla\\Tennis\\Tennis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boutouil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

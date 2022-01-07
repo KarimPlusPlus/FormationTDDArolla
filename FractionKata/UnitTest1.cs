@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace FizzBuzzKataTests
+namespace FractionKata
 {
     public class UnitTest1
     {
